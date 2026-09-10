@@ -14,6 +14,7 @@ def divide(a, b):
     return a/b
 
 def calculate():
+    print(">>> Super Calculator: Version B <<<")
     print("Welcome to the Pair Calculator!")
     print("Addition: 5 + 3 =", add(5, 3))
     print("Subtraction: 5 - 3 =", subtract(5, 3))
